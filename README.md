@@ -1,4 +1,4 @@
-*Network and IT Infrastructure Studies*
+Network and IT Infrastructure Studies
 This repository showcases my studies and various scenarios related to networking, protocols, and IT infrastructure. Here, you will find practical examples and explorations of key concepts, with a focus on:
 
    Networking Protocols: Analysis and implementation of various network protocols.
